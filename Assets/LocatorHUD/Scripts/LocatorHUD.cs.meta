@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b3c742259737f0143a920ced7d666856
+labels:
+- Game
+- Helper
+- Help
+- UI
+- Position
+- Indicator
+- Indicate
+- Direction
+- Location
+- GUI
+- HUD
+- Locator
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
